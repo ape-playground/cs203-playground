@@ -77,14 +77,14 @@ comprehensiveness of your analysis.
 
 If you need to set up a Python environment for this project,
 we have provided detailed instructions in a separate document.
-Please refer to the [`pythonenv.md`](../../../docs/pythonenv.md) file for step-by-step instructions
+Please refer to the [`pythonenv.md`](../env/pythonenv.md) file for step-by-step instructions
 on creating a Python environment with the necessary dependencies.
 
 Creating a dedicated Python environment is highly recommended to ensure a consistent and isolated development
 environment for your project. This helps in managing project-specific dependencies and avoiding conflicts with other
 Python projects.
 
-To get started, simply follow the instructions in the [pythonenv.md](../../../docs/pythonenv.md) document, and you'll be up and
+To get started, simply follow the instructions in the [pythonenv.md](../env/pythonenv.md) document, and you'll be up and
 running in no time.
 
 ## Unset Environment Variables
