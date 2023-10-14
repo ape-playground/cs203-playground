@@ -1,0 +1,3 @@
+[submodule "notebooks/exercise"]
+	path = notebooks/exercise
+	url = git@github.com:AppleBoiy/data_analysis_lab.git
